@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from './App.css';
+import styles from './App.module.css';
 
-import BusinessList from "../BusinessList/BusinessList";
-import SearchBar from "../SearchBar/SearchBar";
+import BusinessList from '../BusinessList/BusinessList';
+import SearchBar from '../SearchBar/SearchBar';
 
 const App = () => {
   return (
